@@ -3,6 +3,8 @@ title: "Series 65 Exam Prep NYC | Free Accessible Course"
 description: "Free, open-source Series 65 exam preparation course designed for NYC financial professionals with screen reader accessibility"
 baseurl: "/series-65-exam-prep-nyc.github.io"
 url: "https://python-big-data-science-nyc.github.io"
+how_sidebar: false
+
 
 # Theme
 remote_theme: pages-themes/minimal@v0.2.0
