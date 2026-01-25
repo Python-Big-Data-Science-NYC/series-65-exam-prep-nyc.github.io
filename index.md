@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Free Series 65 Exam Prep Course
+title: Free Series 65 Exam Prep Course by Shivgan Joshi 
 description: Open-source, accessible Series 65 Exam preparation materials designed for screen readers and text-to-speech tools
 ---
 
-# 📚 Free Series 65 Exam Preparation Course
+# 📚 Free Series 65 Exam Preparation Course by Shivgan Joshi 
 
 ## Course Overview
 

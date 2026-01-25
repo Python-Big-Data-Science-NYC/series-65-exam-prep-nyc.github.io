@@ -1,3 +1,4 @@
+---
 layout: default
 title: Part 2 - Registration & Disclosure
 description: A comprehensive technical deep-dive into the mechanics of securities registration, transactional exemptions, disclosure obligations, and the critical distinction between exemption from registration and the universal application of antifraud provisions.

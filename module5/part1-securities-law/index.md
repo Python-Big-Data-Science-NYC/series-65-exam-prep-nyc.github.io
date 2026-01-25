@@ -1,3 +1,4 @@
+---
 layout: default
 title: Part 1 - Introduction to Securities Law
 description: A comprehensive, technical examination of the philosophical foundations, statutory architecture, and core regulatory principles underpinning U.S. securities law, designed for audio delivery and Series 65 exam preparation.
