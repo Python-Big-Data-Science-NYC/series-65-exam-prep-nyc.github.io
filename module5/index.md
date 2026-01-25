@@ -86,7 +86,7 @@ By completing this module, you will:
 ## **🔗 Navigation**
 - **Previous Module**: [Module 4: Client Recommendations](/series-65-exam-prep-nyc.github.io/module4/)
 - **Next Practice**: [Module 5 Practice Questions](/series-65-exam-prep-nyc.github.io/practice/module5/)
-- **Return to**: [Course Home](/)
+- **Return to**: [Course Home](/series-65-exam-prep-nyc.github.io)
 
 ---
 

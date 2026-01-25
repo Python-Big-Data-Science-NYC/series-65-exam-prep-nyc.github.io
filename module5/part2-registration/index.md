@@ -161,4 +161,4 @@ Information is **material** if:
 
 **Previous**: [← Part 1: Introduction to Securities Law](/series-65-exam-prep-nyc.github.io//module5/part1-securities-law/)
 
-**Navigation**: [Back to Module 5 Overview](/series-65-exam-prep-nyc.github.io//module5/) | [Course Home](/)
+**Navigation**: [Back to Module 5 Overview](/series-65-exam-prep-nyc.github.io/module5/) | [Course Home](/)

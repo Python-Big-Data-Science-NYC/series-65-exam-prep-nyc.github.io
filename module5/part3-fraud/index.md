@@ -186,4 +186,4 @@ Similar to Rule 10b-5 but applies to **offer and sale** of securities (not just 
 
 **Previous**: [← Part 2: Registration & Disclosure](/series-65-exam-prep-nyc.github.io//module5/part2-registration/)
 
-**Navigation**: [Back to Module 5 Overview](/series-65-exam-prep-nyc.github.io//module5/) | [Course Home](/)
+**Navigation**: [Back to Module 5 Overview](/series-65-exam-prep-nyc.github.io//module5/) | [Course Home](/series-65-exam-prep-nyc.github.io)
