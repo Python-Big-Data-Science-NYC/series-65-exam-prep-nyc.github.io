@@ -65,11 +65,11 @@ nyc_resources:
 
 # Site Navigation
 navigation:
-	- title: "Home"
+  - title: "Home"
 	url: "/series-65-exam-prep-nyc.github.io/"
-	- title: "Study Modules"
+  - title: "Study Modules"
 	url: "/series-65-exam-prep-nyc.github.io/modules/"
-	- title: "Module 5"
+  - title: "Module 5"
 	url: "/series-65-exam-prep-nyc.github.io/module5/"
   - title: "Study Modules"
     url: "/modules/"
