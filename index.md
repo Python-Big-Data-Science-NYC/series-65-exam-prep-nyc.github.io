@@ -76,6 +76,12 @@ This module covers all securities law concepts required for the Series 65 exam. 
 - Federal vs. state regulation
 - Historical context
 
+### [Part 1.5: Market Structure & Intermediaries](/series-65-exam-prep-nyc.github.io//module5/part1-5-market-structure)
+- FINRA, MSRB, and SRO regulation
+- Broker-dealer registration and compliance
+- Net capital and customer protection rules
+- Market operations and trading rules
+
 ### [Part 2: Registration & Disclosure](/series-65-exam-prep-nyc.github.io/module5/part2-registration/)
 - Securities Act of 1933
 - Registration requirements
