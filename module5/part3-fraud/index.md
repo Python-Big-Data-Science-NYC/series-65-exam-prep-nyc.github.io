@@ -26,8 +26,8 @@ In securities regulation, one principle stands above all others: **Fraud is alwa
 > **C.** The IAR may be liable under antifraud rules for failing to disclose known material misrepresentations, even in an exempt offering.
 > **D.** Liability only attaches if the SEC has previously sanctioned the issuer.
 >
-> {% raw %}<details><summary>Answer & Rationale</summary><strong>C. The IAR may be liable under antifraud rules for failing to disclose known material misrepresentations, even in an exempt offering.</strong> This is the cardinal rule tested on the Series 65. Antifraud provisions are universal. An IAR has a duty to their client not to perpetuate a known fraud. Recommending an investment while aware of a material misstatement in the offering documents is a potential violation of Rule 10b-5. A is dangerously false. B is false; while the depth of due diligence may vary, blind reliance is not a defense. D is irrelevant to the IAR's direct duty to the client.
-> </details>{% endraw %}
+> {% raw %}<summary>Answer & Rationale</summary><strong>C. The IAR may be liable under antifraud rules for failing to disclose known material misrepresentations, even in an exempt offering.</strong> This is the cardinal rule tested on the Series 65. Antifraud provisions are universal. An IAR has a duty to their client not to perpetuate a known fraud. Recommending an investment while aware of a material misstatement in the offering documents is a potential violation of Rule 10b-5. A is dangerously false. B is false; while the depth of due diligence may vary, blind reliance is not a defense. D is irrelevant to the IAR's direct duty to the client.
+> {% endraw %}
 
 ## **II. Deconstructing Fraud: The Legal Elements and Forms**
 
@@ -60,8 +60,8 @@ Often more subtle but equally illegal. An omission becomes fraudulent when:
 > **C.** A potential fraudulent omission if the prior fund failure is a material fact that a reasonable investor would want to know.
 > **D.** Only a violation if the client specifically asks about the general partner's track record.
 >
-> {% raw %}<details><summary>Answer & Rationale</summary><strong>C. A potential fraudulent omission if the prior fund failure is a material fact that a reasonable investor would want to know.</strong> This is a classic half-truth scenario. Highlighting relevant experience while omitting a material, directly relevant negative history (a complete fund failure) creates a misleadingly positive impression. The duty to provide a balanced picture exists, especially when soliciting investment. A and B ignore the materiality of the omitted information. D is false; the duty to disclose material facts is not contingent on a client's specific question.
-> </details>{% endraw %}
+> {% raw %}<summary>Answer & Rationale</summary><strong>C. A potential fraudulent omission if the prior fund failure is a material fact that a reasonable investor would want to know.</strong> This is a classic half-truth scenario. Highlighting relevant experience while omitting a material, directly relevant negative history (a complete fund failure) creates a misleadingly positive impression. The duty to provide a balanced picture exists, especially when soliciting investment. A and B ignore the materiality of the omitted information. D is false; the duty to disclose material facts is not contingent on a client's specific question.
+> {% endraw %}
 
 ### **C. Other Fraudulent Practices**
 *   **Fabrication:** Creating false performance records, client testimonials, or audit reports.
@@ -92,8 +92,8 @@ The legal standard comes from *TSC Industries, Inc. v. Northway, Inc.* (1976): A
 > **C.** Yes, because a reasonable client would likely want to know if their adviser had a significant financial incentive to recommend a custody change.
 > **D.** Only if the bonus exceeds $10,000.
 >
-> {% raw %}<details><summary>Answer & Rationale</summary><strong>C. Yes, because a reasonable client would likely want to know if their adviser had a significant financial incentive to recommend a custody change.</strong> Compensation that creates a conflict of interest between the adviser and the client is nearly always material. The client is entitled to know what might be influencing the recommendation so they can assess its objectivity. The benefit of lower fees (B) does not negate the materiality of the conflict. There is no monetary threshold for materiality (D).
-> </details>{% endraw %}
+> {% raw %}<summary>Answer & Rationale</summary><strong>C. Yes, because a reasonable client would likely want to know if their adviser had a significant financial incentive to recommend a custody change.</strong> Compensation that creates a conflict of interest between the adviser and the client is nearly always material. The client is entitled to know what might be influencing the recommendation so they can assess its objectivity. The benefit of lower fees (B) does not negate the materiality of the conflict. There is no monetary threshold for materiality (D).
+> {% endraw %}
 
 ### **B. Scienter: The State of Mind**
 Scienter refers to the **intent to deceive, manipulate, or defraud**. For most key antifraud violations (like Rule 10b-5), the Supreme Court has held that **recklessness** satisfies the scienter requirement.
@@ -130,8 +130,8 @@ The 1933 Act's counterpart, applying to the **offer or sale** of securities. It 
 > **C.** Rule 10b-5, but only if the IAR's client loses money on the trade.
 > **D.** The "short-swing profit" rule under Section 16(b).
 >
-> {% raw %}<details><summary>Answer & Rationale</summary><strong>B. The insider trading rules under the misappropriation theory, as the IAR breached a duty of trust to her client by misusing the client's confidential information.</strong> The IAR owes a fiduciary duty to her client. Using the client's confidential information for personal gain is a quintessential breach under the misappropriation theory. A is incorrect; you do not need to be a corporate insider to commit insider trading. C is incorrect; the violation occurs at the time of the trade based on misuse of information, not upon a loss. D applies to corporate officers, directors, and >10% owners, not to advisers.
-> </details>{% endraw %}
+> {% raw %}<summary>Answer & Rationale</summary><strong>B. The insider trading rules under the misappropriation theory, as the IAR breached a duty of trust to her client by misusing the client's confidential information.</strong> The IAR owes a fiduciary duty to her client. Using the client's confidential information for personal gain is a quintessential breach under the misappropriation theory. A is incorrect; you do not need to be a corporate insider to commit insider trading. C is incorrect; the violation occurs at the time of the trade based on misuse of information, not upon a loss. D applies to corporate officers, directors, and >10% owners, not to advisers.
+> {% endraw %}
 
 ## **V. Defenses That Are Not Defenses (Common Exam Traps)**
 
@@ -151,8 +151,8 @@ The Series 65 exam frequently presents scenarios where an adviser offers a justi
 > **C.** The IAR's duty is solely to recommend suitable investments, not to explain costs.
 > **D.** The long-term potential of the annuity makes the fees immaterial.
 >
-> {% raw %}<details><summary>Answer & Rationale</summary><strong>B. The IAR may have violated antifraud rules if he did not clearly and specifically highlight the key costs and risks in the context of the recommendation to the retiree.</strong> Merely delivering a dense prospectus does not discharge an IAR's duty, especially with a retail client. The duty is to communicate material information effectively so it is understood. Hiding material facts in a lengthy document can itself be misleading. A is a common misconception. C is false; disclosure of material costs is part of suitability and fiduciary duty. D is a subjective judgment that ignores the materiality of fees to an income-oriented retiree.
-> </details>{% endraw %}
+> {% raw %}<summary>Answer & Rationale</summary><strong>B. The IAR may have violated antifraud rules if he did not clearly and specifically highlight the key costs and risks in the context of the recommendation to the retiree.</strong> Merely delivering a dense prospectus does not discharge an IAR's duty, especially with a retail client. The duty is to communicate material information effectively so it is understood. Hiding material facts in a lengthy document can itself be misleading. A is a common misconception. C is false; disclosure of material costs is part of suitability and fiduciary duty. D is a subjective judgment that ignores the materiality of fees to an income-oriented retiree.
+> {% endraw %}
 
 ## **VI. Enforcement Landscape and Penalties**
 
@@ -197,8 +197,8 @@ For the practicing IAR, navigating antifraud rules comes down to a mindset of ra
 > **C.** Permissible as long as the client signs an agreement.
 > **D.** Only a problem if the funds underperform the market.
 >
-> {% raw %}<details><summary>Answer & Rationale</summary><strong>B. A potential violation of antifraud rules due to the omission of material conflicts of interest.</strong> This is a classic rollover conflict scenario. The IAR's higher compensation and the firm's revenue sharing create material conflicts that could influence the recommendation. The duty is to disclose these conflicts clearly and in advance, not to rely on buried prospectus disclosures. Suitability (A) is a separate requirement that does not negate the duty to disclose conflicts. A signed agreement (C) does not waive the duty of disclosure. Performance (D) is irrelevant to the disclosure violation.
-> </details>{% endraw %}
+> {% raw %}<summary>Answer & Rationale</summary><strong>B. A potential violation of antifraud rules due to the omission of material conflicts of interest.</strong> This is a classic rollover conflict scenario. The IAR's higher compensation and the firm's revenue sharing create material conflicts that could influence the recommendation. The duty is to disclose these conflicts clearly and in advance, not to rely on buried prospectus disclosures. Suitability (A) is a separate requirement that does not negate the duty to disclose conflicts. A signed agreement (C) does not waive the duty of disclosure. Performance (D) is irrelevant to the disclosure violation.
+> {% endraw %}
 
 ---
 

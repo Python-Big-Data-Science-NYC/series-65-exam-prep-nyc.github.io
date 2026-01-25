@@ -34,7 +34,7 @@ C) Yes, because omitting material negative history about the GP renders the posi
 D) Yes, but only if Dr. Smith loses money on the investment.
 
 {% raw %}
-<details>
+
 <summary>Answer & Explanation</summary>
 <strong>C) Yes, because omitting material negative history about the GP renders the positive statement misleading, constituting a fraudulent half-truth.</strong>
 
@@ -46,7 +46,7 @@ D) Yes, but only if Dr. Smith loses money on the investment.
 5.  **Key Distinction:** The violation occurs at the time of the misleading communication. Investor loss (D) is an element for damages in a private lawsuit but is not required for an SEC enforcement action for fraud.
 
 **Test-Taking Insight:** The exam often pairs a true statement with a critical omission. Look for answers that invoke the "half-truth" or "misleading by omission" concept.
-</details>
+
 {% endraw %}
 
 ---
@@ -63,7 +63,7 @@ C) Verbally mention the investigation during the review but downplay it as a rou
 D) Wait until the SEC formally charges the manager before saying anything, to avoid causing unnecessary concern.
 
 {% raw %}
-<details>
+
 <summary>Answer & Explanation</summary>
 <strong>B) Disclose the investigation in writing to the client before the review, as it is a material fact about a key person at the firm.</strong>
 
@@ -75,7 +75,7 @@ D) Wait until the SEC formally charges the manager before saying anything, to av
 5.  **Gray Area Analysis:** While some may argue it's preliminary (A), the fiduciary standard errs on the side of client transparency, especially for a "star" manager central to the firm's value proposition. The adviser's obligation is to the client, not to protect the firm's or manager's reputation.
 
 **Test-Taking Insight:** In gray areas, the exam typically expects you to choose the option that provides the *client with the most information and protection*, aligning with the "when in doubt, disclose" principle.
-</details>
+
 {% endraw %}
 
 ---
@@ -94,7 +94,7 @@ C) The offering is disqualified because it exceeds the $1 million limit for Rule
 D) The offering may use Rule 147A, which does not restrict where offers can be made, as long as sales are only to in-state residents.
 
 {% raw %}
-<details>
+
 <summary>Answer & Explanation</summary>
 <strong>B) The offering is disqualified from the Rule 147 exemption because an offer was made to a Colorado resident while he was physically in California.</strong>
 
@@ -106,7 +106,7 @@ D) The offering may use Rule 147A, which does not restrict where offers can be m
 5.  **Practical Trap:** This tests attention to detail. The scenario appears perfectly set up for an intrastate offering until the "business trip to California" detail, which is the poison pill.
 
 **Test-Taking Insight:** The exam loves "one fatal flaw" questions. Read every detail. The phrase "while on a business trip to California" is the critical data point that changes the answer.
-</details>
+
 {% endraw %}
 
 ---
@@ -123,7 +123,7 @@ C) No, the issuer must review specific documentation like tax returns, W-2s, or 
 D) No, because the CPA letter is not from a registered broker-dealer or investment adviser.
 
 {% raw %}
-<details>
+
 <summary>Answer & Explanation</summary>
 <strong>A) Yes, the CPA letter is a specifically enumerated method of verification in the rule.</strong>
 
@@ -135,7 +135,7 @@ D) No, because the CPA letter is not from a registered broker-dealer or investme
 5.  **Common Misconception:** Many think verification is ultra-rigid. The rule provides a safe harbor for third-party professional verification, which is exactly what was done.
 
 **Test-Taking Insight:** Know the specific safe harbors under Rule 506(c). When you see "CPA," "attorney," "broker-dealer," or "RIA" providing confirmation, that's a strong indicator of proper verification.
-</details>
+
 {% endraw %}
 
 ---
@@ -154,7 +154,7 @@ C) No, because the IAR must recommend the lowest-cost option unless there is a c
 D) No, because revenue sharing arrangements are prohibited under the Advisers Act.
 
 {% raw %}
-<details>
+
 <summary>Answer & Explanation</summary>
 <strong>C) No, because the IAR must recommend the lowest-cost option unless there is a compelling, documented reason to justify higher costs, and the conflict must be clearly disclosed.</strong>
 
@@ -166,7 +166,7 @@ D) No, because revenue sharing arrangements are prohibited under the Advisers Ac
 5.  **What's Not Prohibited:** Revenue sharing is not illegal (D is wrong), but it creates a conflict that must be meticulously managed and disclosed.
 
 **Test-Taking Insight:** On the Series 65, when costs differ significantly and a conflict exists, the default fiduciary answer is to choose the lower-cost option unless a robust, documented justification exists.
-</details>
+
 {% endraw %}
 
 ---
@@ -183,7 +183,7 @@ C) The IAR has "custody" personally, but the firm does not, because it was a per
 D) The IAR has committed a prohibited transaction because only the client can request IRA distributions.
 
 {% raw %}
-<details>
+
 <summary>Answer & Explanation</summary>
 <strong>B) The IAR's firm now has "custody" and must ensure a surprise annual exam is performed.</strong>
 
@@ -195,7 +195,7 @@ D) The IAR has committed a prohibited transaction because only the client can re
 5.  **IRA Distribution Rules:** While the client must generally request distributions, a valid POA may allow an agent to do so (D is not necessarily true). The securities law issue is custody, not IRA rules.
 
 **Test-Taking Insight:** The custody rule is notoriously technical. Any authority to move client money = custody. The exam often tests the "direct payment to third party" loophole—it's not a loophole.
-</details>
+
 {% endraw %}
 
 ---
@@ -222,7 +222,7 @@ C) I, II, and III only
 D) I, II, III, and IV
 
 {% raw %}
-<details>
+
 <summary>Answer & Explanation</summary>
 <strong>C) I, II, and III only.</strong>
 
@@ -234,7 +234,7 @@ D) I, II, III, and IV
 5.  **Synthesis:** This question forces you to identify which regulatory regimes apply to a dually-registered representative in a single act. The act is simultaneously investment advice (Advisers Act) and a brokerage recommendation (Exchange Act/Reg BI), and is fraudulent under both.
 
 **Test-Taking Insight:** Hybrid "dual-registrant" questions are common. The key is to analyze the action from *both* regulatory hats the person is wearing.
-</details>
+
 {% endraw %}
 
 ---
@@ -251,7 +251,7 @@ C) No, because disclosure of material disciplinary history must be clear and con
 D) No, because only felony convictions or SEC sanctions must be disclosed; misdemeanors are not required.
 
 {% raw %}
-<details>
+
 <summary>Answer & Explanation</summary>
 <strong>C) No, because disclosure of material disciplinary history must be clear and conspicuous; merely including it in a lengthy document may be insufficient.</strong>
 
@@ -263,7 +263,7 @@ D) No, because only felony convictions or SEC sanctions must be disclosed; misde
 5.  **Legal Precedent:** Courts have often sided with clients in "it was in the document" cases, ruling that disclosure must be meaningful.
 
 **Test-Taking Insight:** The Series 65 consistently rejects the "it was in the paperwork" defense. Look for answers that emphasize *clear, conspicuous, and fair* communication.
-</details>
+
 {% endraw %}
 
 *(The full document would continue with 22 more questions in similar, extensive detail, covering topics like:*  

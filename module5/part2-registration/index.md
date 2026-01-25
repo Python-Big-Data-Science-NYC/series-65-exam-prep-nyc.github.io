@@ -38,8 +38,8 @@ Registration is **NOT** a seal of approval. The SEC’s declaration that a regis
 > **B.** She is incorrect; "effective" means the issuer has satisfied disclosure rules, but the SEC expressly does not evaluate the investment's merit or likelihood of success.
 > **C.** She is partially correct; the SEC approves the business plan but not the stock price.
 > **D.** The statement is only true for equity offerings, not for debt offerings.
-> {% raw %}<details><summary>Answer & Rationale</summary><strong>B. She is incorrect; "effective" means the issuer has satisfied disclosure rules, but the SEC expressly does not evaluate the investment's merit or likelihood of success.</strong> This is the fundamental disclosure vs. merit distinction. The SEC reviews for compliance with disclosure regulations, not business viability (A, C). This principle applies to all securities requiring registration (D).
-> </details>{% endraw %}
+> {% raw %}<summary>Answer & Rationale</summary><strong>B. She is incorrect; "effective" means the issuer has satisfied disclosure rules, but the SEC expressly does not evaluate the investment's merit or likelihood of success.</strong> This is the fundamental disclosure vs. merit distinction. The SEC reviews for compliance with disclosure regulations, not business viability (A, C). This principle applies to all securities requiring registration (D).
+> {% endraw %}
 
 ## **II. Exempt Securities: Exemption by Nature of the Issuer**
 
@@ -66,8 +66,8 @@ The exemption is for **registration only**. These securities:
 > **B.** A 10-year corporate bond issued by a national bank.
 > **C.** 180-day commercial paper issued by a large, creditworthy industrial company to fund inventory.
 > **D.** A new issue of common stock by a biotechnology startup selling to the public for the first time.
-> {% raw %}<details><summary>Answer & Rationale</summary><strong>D. A new issue of common stock by a biotechnology startup selling to the public for the first time.</strong> This is a classic, non-exempt public offering requiring registration. Municipal bonds (A) and certain bank securities (B) are exempt securities. Short-term commercial paper under 270 days meeting the qualifications is exempt (C).
-> </details>{% endraw %}
+> {% raw %}<summary>Answer & Rationale</summary><strong>D. A new issue of common stock by a biotechnology startup selling to the public for the first time.</strong> This is a classic, non-exempt public offering requiring registration. Municipal bonds (A) and certain bank securities (B) are exempt securities. Short-term commercial paper under 270 days meeting the qualifications is exempt (C).
+> {% endraw %}
 
 ## **III. Exempt Transactions: Exemption by Manner of Sale**
 
@@ -107,8 +107,8 @@ This is a cornerstone concept for private capital formation. Criteria include:
 > **B.** Sell only to accredited investors and take reasonable steps to verify their accredited status.
 > **C.** Provide all purchasers with a full prospectus identical to that used in a registered offering.
 > **D.** Limit the offering to investors within a single state.
-> {% raw %}<details><summary>Answer & Rationale</summary><strong>B. Sell only to accredited investors and take reasonable steps to verify their accredited status.</strong> Rule 506(c) explicitly allows general solicitation but imposes a strict condition: all purchasers must be accredited, and the issuer has an affirmative obligation to verify (not just accept a check-box). A describes Rule 506(b). C describes a registered offering. D describes an intrastate offering under Rule 147.
-> </details>{% endraw %}
+> {% raw %}<summary>Answer & Rationale</summary><strong>B. Sell only to accredited investors and take reasonable steps to verify their accredited status.</strong> Rule 506(c) explicitly allows general solicitation but imposes a strict condition: all purchasers must be accredited, and the issuer has an affirmative obligation to verify (not just accept a check-box). A describes Rule 506(b). C describes a registered offering. D describes an intrastate offering under Rule 147.
+> {% endraw %}
 
 ### **C. The Intrastate Offering Exemption: Rule 147/147A**
 *   **Concept:** An offering confined to a single state, where the issuer is a resident and doing business within that state.
@@ -135,8 +135,8 @@ A two-tiered exemption for smaller public offerings, bridging the gap between pr
 > **B.** The investment is allowed because Tier 2 has no investment limits.
 > **C.** The investment may be allowed if it does not exceed 10% of the investor's annual income or net worth.
 > **D.** The investment is allowed only if the investor is a resident of the same state as the issuer.
-> {% raw %}<details><summary>Answer & Rationale</summary><strong>C. The investment may be allowed if it does not exceed 10% of the investor's annual income or net worth.</strong> Tier 2 of Reg A+ is unique in that it allows non-accredited investors to participate, but with a protective investment cap. The cap is the lesser of 10% of annual income or 10% of net worth. A is false (accredited status not required). B is false (caps exist for non-accrediteds). D describes an intrastate offering, not Reg A.
-> </details>{% endraw %}
+> {% raw %}<summary>Answer & Rationale</summary><strong>C. The investment may be allowed if it does not exceed 10% of the investor's annual income or net worth.</strong> Tier 2 of Reg A+ is unique in that it allows non-accredited investors to participate, but with a protective investment cap. The cap is the lesser of 10% of annual income or 10% of net worth. A is false (accredited status not required). B is false (caps exist for non-accrediteds). D describes an intrastate offering, not Reg A.
+> {% endraw %}
 
 ## **IV. Disclosure Documents: Form Follows Function**
 
@@ -161,8 +161,8 @@ A two-tiered exemption for smaller public offerings, bridging the gap between pr
 > **B.** A full prospectus, identical to that used in an IPO, must be delivered to all investors.
 > **C.** Non-accredited investors must be furnished with disclosure documents containing information similar to that in a registration statement, while accredited investors have no specific disclosure entitlement under the rule (though antifraud rules apply).
 > **D.** Only a brief term sheet is required.
-> {% raw %}<details><summary>Answer & Rationale</summary><strong>C. Non-accredited investors must be furnished with disclosure documents containing information similar to that in a registration statement, while accredited investors have no specific disclosure entitlement under the rule (though antifraud rules apply).</strong> This is a precise test of Rule 506(b) requirements. The rule explicitly mandates specific, extensive disclosure to any non-accredited purchaser. For accredited investors, the rule is silent, but the overarching antifraud provisions of Rule 10b-5 create a legal duty not to mislead or omit material facts, which is typically fulfilled via a PPM.
-> </details>{% endraw %}
+> {% raw %}<summary>Answer & Rationale</summary><strong>C. Non-accredited investors must be furnished with disclosure documents containing information similar to that in a registration statement, while accredited investors have no specific disclosure entitlement under the rule (though antifraud rules apply).</strong> This is a precise test of Rule 506(b) requirements. The rule explicitly mandates specific, extensive disclosure to any non-accredited purchaser. For accredited investors, the rule is silent, but the overarching antifraud provisions of Rule 10b-5 create a legal duty not to mislead or omit material facts, which is typically fulfilled via a PPM.
+> {% endraw %}
 
 ## **V. Continuous Disclosure: The 1934 Act's Ongoing Obligation**
 
@@ -187,8 +187,8 @@ Continuous disclosure ensures the **"total mix"** of information available to th
 > **B.** In its annual 10-K report.
 > **C.** Within 4 business days via a Form 8-K.
 > **D.** Only after the merger is officially completed.
-> {% raw %}<details><summary>Answer & Rationale</summary><strong>C. Within 4 business days via a Form 8-K.</strong> A definitive merger agreement is a quintessential "material corporate event" requiring prompt disclosure on Form 8-K. Waiting for a periodic 10-Q or 10-K (A, B) would violate the timely disclosure principles of the 1934 Act. Disclosure is required upon the event (board approval/signing), not completion (D).
-> </details>{% endraw %}
+> {% raw %}<summary>Answer & Rationale</summary><strong>C. Within 4 business days via a Form 8-K.</strong> A definitive merger agreement is a quintessential "material corporate event" requiring prompt disclosure on Form 8-K. Waiting for a periodic 10-Q or 10-K (A, B) would violate the timely disclosure principles of the 1934 Act. Disclosure is required upon the event (board approval/signing), not completion (D).
+> {% endraw %}
 
 ## **VI. The Unbreakable Rule: Antifraud Provisions Apply Universally**
 
@@ -212,8 +212,8 @@ Continuous disclosure ensures the **"total mix"** of information available to th
 > **B.** Only the issuer can be liable for fraud; the IAR has no duty to investigate.
 > **C.** The IAR and his firm have likely violated Rule 10b-5, as antifraud rules apply to all securities transactions, registered or exempt.
 > **D.** Liability only exists if the client loses money.
-> {% raw %}<details><summary>Answer & Rationale</summary><strong>C. The IAR and his firm have likely violated Rule 10b-5, as antifraud rules apply to all securities transactions, registered or exempt.</strong> This is the cardinal rule. Antifraud provisions are universal. Knowing misrepresentation or omission of a material fact (overstated financials) in connection with a securities transaction is a textbook 10b-5 violation. A is the exact misconception the exam tests. B is false; representatives have a duty not to perpetuate known frauds. D is false; the violation occurs at the time of the fraudulent act, though damages are a separate element for a private lawsuit.
-> </details>{% endraw %}
+> {% raw %}<summary>Answer & Rationale</summary><strong>C. The IAR and his firm have likely violated Rule 10b-5, as antifraud rules apply to all securities transactions, registered or exempt.</strong> This is the cardinal rule. Antifraud provisions are universal. Knowing misrepresentation or omission of a material fact (overstated financials) in connection with a securities transaction is a textbook 10b-5 violation. A is the exact misconception the exam tests. B is false; representatives have a duty not to perpetuate known frauds. D is false; the violation occurs at the time of the fraudulent act, though damages are a separate element for a private lawsuit.
+> {% endraw %}
 
 ---
 

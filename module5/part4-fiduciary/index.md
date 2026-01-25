@@ -36,8 +36,8 @@ The fiduciary duty is comprised of two inseparable components that govern every 
 > **C.** A disclosure statute similar to the Securities Act of 1933.
 > **D.** A statute designed to ensure advisers achieve superior returns for clients.
 >
-> {% raw %}<details><summary>Answer & Rationale</summary><strong>B. An anti-fraud statute that imposes fiduciary obligations on advisers to their clients.</strong> This is the precise holding from *SEC v. Capital Gains Research Bureau*. The Court ruled the Act's purpose is to eliminate, or require disclosure of, conflicts of interest to prevent fraud. It is not merely a registration (A) or disclosure directory (C), and it does not guarantee performance (D).
-> </details>{% endraw %}
+> {% raw %}<summary>Answer & Rationale</summary><strong>B. An anti-fraud statute that imposes fiduciary obligations on advisers to their clients.</strong> This is the precise holding from *SEC v. Capital Gains Research Bureau*. The Court ruled the Act's purpose is to eliminate, or require disclosure of, conflicts of interest to prevent fraud. It is not merely a registration (A) or disclosure directory (C), and it does not guarantee performance (D).
+> {% endraw %}
 
 ## **II. The Investment Advisers Act of 1940: Regulatory Framework**
 
@@ -73,8 +73,8 @@ A person or firm that, for **compensation**, is engaged in the business of provi
 > **C.** A statement from a current client praising the adviser's personal service and communication.
 > **D.** A list of the adviser's five best-performing stock picks from the past year, with equal prominence given to the five worst-performing picks.
 >
-> {% raw %}<details><summary>Answer & Rationale</summary><strong>C. A statement from a current client praising the adviser's personal service and communication.</strong> This is a classic testimonial, which is prohibited under Rule 206(4)-1. Advertisements may include reprints of third-party articles (B) if certain conditions are met. Hypothetical or actual performance data (A) is allowed with extensive disclosures. Showing a list of selected recommendations (D) is problematic, but showing a balanced list of *all* recommendations may be permissible under the "past specific recommendations" provision if all rules are followed.
-> </details>{% endraw %}
+> {% raw %}<summary>Answer & Rationale</summary><strong>C. A statement from a current client praising the adviser's personal service and communication.</strong> This is a classic testimonial, which is prohibited under Rule 206(4)-1. Advertisements may include reprints of third-party articles (B) if certain conditions are met. Hypothetical or actual performance data (A) is allowed with extensive disclosures. Showing a list of selected recommendations (D) is problematic, but showing a balanced list of *all* recommendations may be permissible under the "past specific recommendations" provision if all rules are followed.
+> {% endraw %}
 
 #### **6. The Custody Rule (Rule 206(4)-2)**
 *   **Definition of Custody:** Holding client funds/securities, having authority to withdraw funds, or acting as general partner/trustee.
@@ -115,8 +115,8 @@ A person or firm that, for **compensation**, is engaged in the business of provi
 > **C.** Must recommend Fund B to support the financial health of his firm.
 > **D.** Should let the client choose at random, since both are suitable.
 >
-> {% raw %}<details><summary>Answer & Rationale</summary><strong>B. Must recommend Fund A, as it is clearly in the client's best interest from a cost perspective, unless there is a compelling, documented reason related to the client's objectives to choose Fund B.</strong> The duty of loyalty requires placing the client's interest first. The dramatically higher cost of Fund B, coupled with the adviser's conflicting financial incentive, creates a strong presumption that the lower-cost option is in the client's best interest. To recommend Fund B, the adviser would need to document a specific, objective reason why its strategy or holdings are necessary to meet the client's unique goals, and fully disclose the conflict. A reflects a suitability, not fiduciary, mindset. C violates the duty of loyalty. D abrogates the adviser's professional responsibility.
-> </details>{% endraw %}
+> {% raw %}<summary>Answer & Rationale</summary><strong>B. Must recommend Fund A, as it is clearly in the client's best interest from a cost perspective, unless there is a compelling, documented reason related to the client's objectives to choose Fund B.</strong> The duty of loyalty requires placing the client's interest first. The dramatically higher cost of Fund B, coupled with the adviser's conflicting financial incentive, creates a strong presumption that the lower-cost option is in the client's best interest. To recommend Fund B, the adviser would need to document a specific, objective reason why its strategy or holdings are necessary to meet the client's unique goals, and fully disclose the conflict. A reflects a suitability, not fiduciary, mindset. C violates the duty of loyalty. D abrogates the adviser's professional responsibility.
+> {% endraw %}
 
 ## **IV. Conflict of Interest Management: The Heart of the Duty of Loyalty**
 
@@ -158,8 +158,8 @@ A person or firm that, for **compensation**, is engaged in the business of provi
 > **C.** Within 30 days after the first trade is executed for the client.
 > **D.** Annually, within 120 days of the adviser's fiscal year-end.
 >
->{% raw %}<details><summary>Answer & Rationale</summary><strong>B. Before or at the time of entering into the advisory contract.</strong> The initial brochure must be delivered sufficiently in advance to allow the prospective client to make an informed decision about hiring the adviser. This timing is non-negotiable. D describes the timing for the *annual* delivery of an updated brochure, if changes have been made.
-> </details>{% endraw %}
+>{% raw %}<summary>Answer & Rationale</summary><strong>B. Before or at the time of entering into the advisory contract.</strong> The initial brochure must be delivered sufficiently in advance to allow the prospective client to make an informed decision about hiring the adviser. This timing is non-negotiable. D describes the timing for the *annual* delivery of an updated brochure, if changes have been made.
+> {% endraw %}
 
 ## **VI. The Code of Ethics and Personal Trading (Rule 204A-1)**
 
@@ -194,8 +194,8 @@ When faced with an ethical dilemma, an IAR should systematically apply the follo
 > **C.** Prohibited as front-running, a breach of the duty of loyalty to clients.
 > **D.** Prohibited only if the stock price rises after her purchase.
 >
-> {% raw %}<details><summary>Answer & Rationale</summary><strong>C. Prohibited as front-running, a breach of the duty of loyalty to clients.</strong> Trading ahead of a client's order to profit from the anticipated price movement is a clear violation of the duty of loyalty and a prohibited practice under any reasonable code of ethics. It places the adviser's personal gain ahead of the client's interest (by potentially raising the price the client pays). Disclosure after the fact (A) does not cure the violation. The size of the trade (B) or the market outcome (D) are irrelevant to the breach of duty.
-> </details>{% endraw %}
+> {% raw %}<summary>Answer & Rationale</summary><strong>C. Prohibited as front-running, a breach of the duty of loyalty to clients.</strong> Trading ahead of a client's order to profit from the anticipated price movement is a clear violation of the duty of loyalty and a prohibited practice under any reasonable code of ethics. It places the adviser's personal gain ahead of the client's interest (by potentially raising the price the client pays). Disclosure after the fact (A) does not cure the violation. The size of the trade (B) or the market outcome (D) are irrelevant to the breach of duty.
+> {% endraw %}
 
 ---
 
