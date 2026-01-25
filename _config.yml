@@ -8,13 +8,13 @@ repository: "Python-Big-Data-Science-NYC/series-65-exam-prep-nyc.github.io"
 # Theme
 remote_theme: pages-themes/minimal@v0.2.0
 
-# Author Information
+# CORRECT - with 2-space indentation:
 author:
-name: "NYC Financial Education Initiative"
-email: "series65.nyc@gmail.com"
-bio: "Providing free, accessible Series 65 exam preparation for NYC financial professionals"
-location: "New York City"
-mission: "Democratizing financial licensing exam preparation through open-source, screen-reader optimized content"
+	name: "NYC Financial Education Initiative"
+	email: "series65.nyc@gmail.com"
+	bio: "Providing free, accessible Series 65 exam preparation for NYC financial professionals"
+	location: "New York City"
+	mission: "Democratizing financial licensing exam preparation through open-source, screen-reader optimized content"
 
 # Course Information
 course:
