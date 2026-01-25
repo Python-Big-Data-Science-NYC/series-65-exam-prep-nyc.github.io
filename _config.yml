@@ -5,6 +5,11 @@ baseurl: "/series-65-exam-prep-nyc.github.io"
 url: "https://python-big-data-science-nyc.github.io"
 how_sidebar: false
 
+# Add these lines to hide the GitHub sidebar elements:
+github:
+  is_project_page: false
+  is_user_page: false
+
 
 # Theme
 remote_theme: pages-themes/minimal@v0.2.0
