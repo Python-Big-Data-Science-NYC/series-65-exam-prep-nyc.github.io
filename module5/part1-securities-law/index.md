@@ -21,9 +21,9 @@ Securities law exists as a deliberate intervention into capital markets, constru
 > **B.** The laws were enacted to eliminate all investment risk for the average citizen.
 > **C.** The laws correct for systemic information asymmetries and maintain public trust in the markets, which facilitates capital formation.
 > **D.** The main goal is to ensure that only wealthy, accredited investors can participate in private offerings.
-{% raw %}
+
 <details><summary>Answer & Rationale</summary><strong>C. The laws correct for systemic information asymmetries and maintain public trust in the markets, which facilitates capital formation.</strong> The core philosophy of securities regulation is to mandate disclosure to correct the imbalance of information between issuers and investors (asymmetry). This fosters trust, which encourages participation and liquidity, thereby reducing the cost of capital for legitimate businesses and facilitating capital formation. The laws do not guarantee profits (A) or eliminate risk (B), and they aim to protect all investors, not restrict participation (D).
-> </details>{% endraw %}
+ </details>
 
 ### **B. The Three Pillars of Regulatory Purpose**
 
