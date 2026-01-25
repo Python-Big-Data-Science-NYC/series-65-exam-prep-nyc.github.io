@@ -88,6 +88,13 @@ This module covers all securities law concepts required for the Series 65 exam. 
 - Material misstatements and omissions
 - Enforcement mechanisms
 
+### [Part 3: Fraud & Anti-Fraud Rules](/series-65-exam-prep-nyc.github.io/module5/part3-5-insider-trading-advanced/)
+- Fraud definitions, elements, and real-world examples
+- Anti-fraud provisions (Rule 10b-5, Section 17(a), insider trading rules)
+- Material misstatements, omissions, and half-truths
+- Enforcement mechanisms (SEC, criminal, private actions, whistleblower)
+- Scienter requirements, fraud-on-the-market theory, due diligence defenses
+
 ### [Part 4: Fiduciary Duty & Ethics](/series-65-exam-prep-nyc.github.io/module5/part4-fiduciary/)
 - Fiduciary duty requirements
 - Investment Advisers Act of 1940
