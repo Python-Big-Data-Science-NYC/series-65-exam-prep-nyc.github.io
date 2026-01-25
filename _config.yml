@@ -8,94 +8,94 @@ repository: "Python-Big-Data-Science-NYC/series-65-exam-prep-nyc.github.io"
 # Theme
 remote_theme: pages-themes/minimal@v0.2.0
 
-# CORRECT - with 2-space indentation:
+# Author Information
 author:
-	name: "NYC Financial Education Initiative"
-	email: "series65.nyc@gmail.com"
-	bio: "Providing free, accessible Series 65 exam preparation for NYC financial professionals"
-	location: "New York City"
-	mission: "Democratizing financial licensing exam preparation through open-source, screen-reader optimized content"
+  name: "NYC Financial Education Initiative"
+  email: "series65.nyc@gmail.com"
+  bio: "Providing free, accessible Series 65 exam preparation for NYC financial professionals"
+  location: "New York City"
+  mission: "Democratizing financial licensing exam preparation through open-source, screen-reader optimized content"
 
 # Course Information
 course:
-name: "Series 65 - Uniform Investment Adviser Law Exam"
-organization: "FINRA/NASAA"
-questions: "130"
-time: "180 minutes"
-passing_score: "72%"
-cost: "$187"
-updated: "2026"
-nyc_resources: "NYC-based testing centers, study groups, and accessibility services"
+  name: "Series 65 - Uniform Investment Adviser Law Exam"
+  organization: "FINRA/NASAA"
+  questions: "130"
+  time: "180 minutes"
+  passing_score: "72%"
+  cost: "$187"
+  updated: "2026"
+  nyc_resources: "NYC-based testing centers, study groups, and accessibility services"
 
 # NYC-Specific Features
 nyc_features:
-- "NYC Testing Center Locations"
-- "Local Study Group Meetups"
-- "NYC Financial District Resources"
-- "Accessible NYC Library Resources"
-- "NYC Accommodation Centers"
+  - "NYC Testing Center Locations"
+  - "Local Study Group Meetups"
+  - "NYC Financial District Resources"
+  - "Accessible NYC Library Resources"
+  - "NYC Accommodation Centers"
 
 # Accessibility Features
 accessibility:
-- "WCAG 2.1 AA Compliant"
-- "Screen Reader Optimized"
-- "Keyboard Navigable"
-- "High Contrast Text"
-- "Text-to-Speech Friendly"
-- "NYC MTA Accessible Standards"
+  - "WCAG 2.1 AA Compliant"
+  - "Screen Reader Optimized"
+  - "Keyboard Navigable"
+  - "High Contrast Text"
+  - "Text-to-Speech Friendly"
+  - "NYC MTA Accessible Standards"
 
 # Content Types Available
 formats:
-- "Web Pages (HTML)"
-- "Audio Lessons (MP3)"
-- "Plain Text (TXT)"
-- "Large Print PDF"
-- "EPUB 3 (Ebook)"
-- "DAISY Format"
-- "NYC Library Compatible"
+  - "Web Pages (HTML)"
+  - "Audio Lessons (MP3)"
+  - "Plain Text (TXT)"
+  - "Large Print PDF"
+  - "EPUB 3 (Ebook)"
+  - "DAISY Format"
+  - "NYC Library Compatible"
 
 # NYC Resources
 nyc_resources:
-finra_nyc: "https://www.finra.org/about/finra-locations/new-york"
-prometric_nyc: "https://www.prometric.com/en-us/clients/finra/locate-test-center?state=NY"
-nypl: "https://www.nypl.org/accessibility"
-nys_dfs: "https://www.dfs.ny.gov"
-nyc_small_biz: "https://www1.nyc.gov/site/sbs/index.page"
+  finra_nyc: "https://www.finra.org/about/finra-locations/new-york"
+  prometric_nyc: "https://www.prometric.com/en-us/clients/finra/locate-test-center?state=NY"
+  nypl: "https://www.nypl.org/accessibility"
+  nys_dfs: "https://www.dfs.ny.gov"
+  nyc_small_biz: "https://www1.nyc.gov/site/sbs/index.page"
 
 # Site Navigation
 navigation:
-- title: "Home"
-url: "/"
-- title: "Study Modules"
-url: "/modules/"
-- title: "Practice Questions"
-url: "/practice/"
-- title: "NYC Resources"
-url: "/nyc-resources/"
-- title: "Accessibility Guide"
-url: "/accessibility/"
-- title: "Testing Centers NYC"
-url: "/testing-centers/"
-- title: "Study Groups NYC"
-url: "/study-groups/"
-- title: "Contact"
-url: "/contact/"
+  - title: "Home"
+    url: "/"
+  - title: "Study Modules"
+    url: "/modules/"
+  - title: "Practice Questions"
+    url: "/practice/"
+  - title: "NYC Resources"
+    url: "/nyc-resources/"
+  - title: "Accessibility Guide"
+    url: "/accessibility/"
+  - title: "Testing Centers NYC"
+    url: "/testing-centers/"
+  - title: "Study Groups NYC"
+    url: "/study-groups/"
+  - title: "Contact"
+    url: "/contact/"
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
 plugins:
-- jekyll-feed
-- jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing
 exclude:
-- Gemfile
-- Gemfile.lock
-- node_modules
-- vendor/
-- .git/
-- .github/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/
+  - .git/
+  - .github/
 
 # SEO Settings
 lang: en-US
@@ -110,8 +110,8 @@ contact_email: "accessibility@series65nyc.com"
 
 # Site Colors (High contrast for accessibility)
 minimal:
-skin: dark
-accent_color: "#0047AB" # NYC blue
+  skin: dark
+  accent_color: "#0047AB" # NYC blue
 
 # Google Analytics (Optional)
 # google_analytics: UA-XXXXXXXX-X
