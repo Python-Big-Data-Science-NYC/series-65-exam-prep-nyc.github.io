@@ -157,8 +157,8 @@ Information is **material** if:
 
 ---
 
-**Next**: [Part 3: Fraud & Anti-Fraud Rules →](/module5/part3-fraud/)
+**Next**: [Part 3: Fraud & Anti-Fraud Rules →](/series-65-exam-prep-nyc.github.io/module5/part3-fraud/)
 
-**Previous**: [← Part 1: Introduction to Securities Law](/module5/part1-securities-law/)
+**Previous**: [← Part 1: Introduction to Securities Law](/series-65-exam-prep-nyc.github.io//module5/part1-securities-law/)
 
-**Navigation**: [Back to Module 5 Overview](/module5/) | [Course Home](/)
+**Navigation**: [Back to Module 5 Overview](/series-65-exam-prep-nyc.github.io//module5/) | [Course Home](/)

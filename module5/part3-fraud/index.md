@@ -182,8 +182,8 @@ Similar to Rule 10b-5 but applies to **offer and sale** of securities (not just 
 
 ---
 
-**Next**: [Part 4: Fiduciary Duty & Ethics →](/module5/part4-fiduciary/)
+**Next**: [Part 4: Fiduciary Duty & Ethics →](/series-65-exam-prep-nyc.github.io//module5/part4-fiduciary/)
 
-**Previous**: [← Part 2: Registration & Disclosure](/module5/part2-registration/)
+**Previous**: [← Part 2: Registration & Disclosure](/series-65-exam-prep-nyc.github.io//module5/part2-registration/)
 
-**Navigation**: [Back to Module 5 Overview](/module5/) | [Course Home](/)
+**Navigation**: [Back to Module 5 Overview](/series-65-exam-prep-nyc.github.io//module5/) | [Course Home](/)

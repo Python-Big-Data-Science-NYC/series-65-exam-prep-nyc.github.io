@@ -221,8 +221,8 @@ Advisers must adopt and enforce a written code of ethics that includes:
 
 ---
 
-**Next**: [Part 5: Exam Questions & Practice →](/module5/part5-exam-questions/)
+**Next**: [Part 5: Exam Questions & Practice →](/series-65-exam-prep-nyc.github.io//module5/part5-exam-questions/)
 
-**Previous**: [← Part 3: Fraud & Anti-Fraud Rules](/module5/part3-fraud/)
+**Previous**: [← Part 3: Fraud & Anti-Fraud Rules](/series-65-exam-prep-nyc.github.io//module5/part3-fraud/)
 
-**Navigation**: [Back to Module 5 Overview](/module5/) | [Course Home](/)
+**Navigation**: [Back to Module 5 Overview](/series-65-exam-prep-nyc.github.io//module5/) | [Course Home](/)

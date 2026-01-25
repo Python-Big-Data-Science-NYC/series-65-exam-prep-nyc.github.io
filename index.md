@@ -82,19 +82,19 @@ This module covers all securities law concepts required for the Series 65 exam. 
 - Exempt securities and transactions
 - Disclosure obligations
 
-### [Part 3: Fraud & Anti-Fraud Rules](/series-65-exam-prep-nyc.github.io//module5/part3-fraud/)
+### [Part 3: Fraud & Anti-Fraud Rules](/series-65-exam-prep-nyc.github.io/module5/part3-fraud/)
 - Fraud definitions and examples
 - Anti-fraud provisions
 - Material misstatements and omissions
 - Enforcement mechanisms
 
-### [Part 4: Fiduciary Duty & Ethics](/series-65-exam-prep-nyc.github.io//module5/part4-fiduciary/)
+### [Part 4: Fiduciary Duty & Ethics](/series-65-exam-prep-nyc.github.io/module5/part4-fiduciary/)
 - Fiduciary duty requirements
 - Investment Advisers Act of 1940
 - Suitability vs. best interest
 - Conflict of interest management
 
-### [Part 5: Exam Questions & Practice](/series-65-exam-prep-nyc.github.io//module5/part5-exam-questions/)
+### [Part 5: Exam Questions & Practice](/series-65-exam-prep-nyc.github.io/module5/part5-exam-questions/)
 - Tough exam-style questions
 - Answer explanations with logic
 - Memory aids and rules
@@ -136,8 +136,8 @@ By completing this module, you will:
 4. Draw timelines of regulatory development
 
 ## **🔗 Navigation**
-- **Previous Module**: [Module 4: Client Recommendations](/module4/)
-- **Next Practice**: [Module 5 Practice Questions](/practice/module5/)
+- **Previous Module**: [Module 4: Client Recommendations](/series-65-exam-prep-nyc.github.io/module4/)
+- **Next Practice**: [Module 5 Practice Questions](/series-65-exam-prep-nyc.github.io/practice/module5/)
 - **Return to**: [Course Home](/)
 
 ---

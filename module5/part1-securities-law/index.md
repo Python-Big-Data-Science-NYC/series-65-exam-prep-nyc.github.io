@@ -137,6 +137,6 @@ This is called the **investment contract rule**.
 
 ---
 
-**Next**: [Part 2: Registration & Disclosure →](/module5/part2-registration/)
+**Next**: [Part 2: Registration & Disclosure →](/series-65-exam-prep-nyc.github.io//module5/part2-registration/)
 
-**Navigation**: [Back to Module 5 Overview](/module5/) | [Course Home](/)
+**Navigation**: [Back to Module 5 Overview](/series-65-exam-prep-nyc.github.io/module5/) | [Course Home](/)
