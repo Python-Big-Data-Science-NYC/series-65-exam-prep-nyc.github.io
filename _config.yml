@@ -1,10 +1,8 @@
 # Series 65 Exam Prep - NYC | Accessible Financial Education
 title: "Series 65 Exam Prep NYC | Free Accessible Course"
 description: "Free, open-source Series 65 exam preparation course designed for NYC financial professionals with screen reader accessibility"
-baseurl: "/series-65-exam-prep-nyc.github.io"  # ADD THIS!
+baseurl: "/series-65-exam-prep-nyc.github.io"
 url: "https://python-big-data-science-nyc.github.io"
-
-
 
 # Theme
 remote_theme: pages-themes/minimal@v0.2.0
@@ -66,25 +64,23 @@ nyc_resources:
 # Site Navigation
 navigation:
   - title: "Home"
-	url: "/series-65-exam-prep-nyc.github.io/"
+    url: "/series-65-exam-prep-nyc.github.io/"
   - title: "Study Modules"
     url: "/series-65-exam-prep-nyc.github.io/modules/"
   - title: "Module 5"
     url: "/series-65-exam-prep-nyc.github.io/module5/"
-  - title: "Study Modules"
-    url: "/modules/"
   - title: "Practice Questions"
-    url: "/practice/"
+    url: "/series-65-exam-prep-nyc.github.io/practice/"
   - title: "NYC Resources"
-    url: "/nyc-resources/"
+    url: "/series-65-exam-prep-nyc.github.io/nyc-resources/"
   - title: "Accessibility Guide"
-    url: "/accessibility/"
+    url: "/series-65-exam-prep-nyc.github.io/accessibility/"
   - title: "Testing Centers NYC"
-    url: "/testing-centers/"
+    url: "/series-65-exam-prep-nyc.github.io/testing-centers/"
   - title: "Study Groups NYC"
-    url: "/study-groups/"
+    url: "/series-65-exam-prep-nyc.github.io/study-groups/"
   - title: "Contact"
-    url: "/contact/"
+    url: "/series-65-exam-prep-nyc.github.io/contact/"
 
 # Build settings
 markdown: kramdown
