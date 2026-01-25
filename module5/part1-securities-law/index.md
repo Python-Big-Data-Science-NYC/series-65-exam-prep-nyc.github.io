@@ -2,6 +2,8 @@
 layout: default
 title: Part 1 - Introduction to Securities Law
 description: Why securities laws exist and their core principles
+hide_sidebar: true
+hide_header: true
 ---
 
 # 📜 Part 1: Introduction to Securities Law
