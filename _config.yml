@@ -1,9 +1,10 @@
 # Series 65 Exam Prep - NYC | Accessible Financial Education
 title: "Series 65 Exam Prep NYC | Free Accessible Course"
 description: "Free, open-source Series 65 exam preparation course designed for NYC financial professionals with screen reader accessibility"
-baseurl: ""
-url: "https://series-65-exam-prep-nyc.github.io"
-repository: "Python-Big-Data-Science-NYC/series-65-exam-prep-nyc.github.io"
+baseurl: "/series-65-exam-prep-nyc.github.io"  # ADD THIS!
+url: "https://python-big-data-science-nyc.github.io"
+
+
 
 # Theme
 remote_theme: pages-themes/minimal@v0.2.0
@@ -64,10 +65,12 @@ nyc_resources:
 
 # Site Navigation
 navigation:
-  - title: "Home"
-    url: "/"
-  - title: "Module 5: Securities Law"
-    url: "/module5/"  # Points to the module5 folder index
+	- title: "Home"
+	url: "/series-65-exam-prep-nyc.github.io/"
+	- title: "Study Modules"
+	url: "/series-65-exam-prep-nyc.github.io/modules/"
+	- title: "Module 5"
+	url: "/series-65-exam-prep-nyc.github.io/module5/"
   - title: "Study Modules"
     url: "/modules/"
   - title: "Practice Questions"
