@@ -70,13 +70,13 @@ This module covers all securities law concepts required for the Series 65 exam. 
 
 ## **📚 Module Parts**
 
-### [Part 1: Introduction to Securities Law](/module5/part1-securities-law/)
+### [Part 1: Introduction to Securities Law](/series-65-exam-prep-nyc.github.io/module5/part1-securities-law/)
 - Why securities law exists
 - Core principles and purposes
 - Federal vs. state regulation
 - Historical context
 
-### [Part 2: Registration & Disclosure](/module5/part2-registration/)
+### [Part 2: Registration & Disclosure](/series-65-exam-prep-nyc.github.io/module5/part2-registration/)
 - Securities Act of 1933
 - Registration requirements
 - Exempt securities and transactions
