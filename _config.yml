@@ -66,6 +66,8 @@ nyc_resources:
 navigation:
   - title: "Home"
     url: "/"
+  - title: "Module 5: Securities Law"
+    url: "/module5/"  # Points to the module5 folder index
   - title: "Study Modules"
     url: "/modules/"
   - title: "Practice Questions"
