@@ -18,31 +18,31 @@ This module covers all securities law concepts required for the Series 65 exam. 
 
 ## **📚 Module Parts**
 
-### [Part 1: Introduction to Securities Law](/module5/part1-securities-law/)
+### [Part 1: Introduction to Securities Law](/series-65-exam-prep-nyc.github.io//module5/part1-securities-law/)
 - Why securities law exists
 - Core principles and purposes
 - Federal vs. state regulation
 - Historical context
 
-### [Part 2: Registration & Disclosure](/module5/part2-registration/)
+### [Part 2: Registration & Disclosure](/series-65-exam-prep-nyc.github.io//module5/part2-registration/)
 - Securities Act of 1933
 - Registration requirements
 - Exempt securities and transactions
 - Disclosure obligations
 
-### [Part 3: Fraud & Anti-Fraud Rules](/module5/part3-fraud/)
+### [Part 3: Fraud & Anti-Fraud Rules](/series-65-exam-prep-nyc.github.io//module5/part3-fraud/)
 - Fraud definitions and examples
 - Anti-fraud provisions
 - Material misstatements and omissions
 - Enforcement mechanisms
 
-### [Part 4: Fiduciary Duty & Ethics](/module5/part4-fiduciary/)
+### [Part 4: Fiduciary Duty & Ethics](/series-65-exam-prep-nyc.github.io//module5/part4-fiduciary/)
 - Fiduciary duty requirements
 - Investment Advisers Act of 1940
 - Suitability vs. best interest
 - Conflict of interest management
 
-### [Part 5: Exam Questions & Practice](/module5/part5-exam-questions/)
+### [Part 5: Exam Questions & Practice](/series-65-exam-prep-nyc.github.io//module5/part5-exam-questions/)
 - Tough exam-style questions
 - Answer explanations with logic
 - Memory aids and rules
