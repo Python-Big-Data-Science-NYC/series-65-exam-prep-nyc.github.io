@@ -56,12 +56,6 @@ Welcome to the **open-access Series 65 Exam Preparation Course**. This resource 
 - **Ethical Practices**: Fiduciary duty, confidentiality, conflicts
 
 ---
----
-layout: default
-title: Module 5 - Securities Law
-description: Complete securities law coverage for Series 65 exam - accessible, screen-reader friendly format
----
-
 # 📜 Module 5: Securities Law & Regulations
 
 ## **Overview**
