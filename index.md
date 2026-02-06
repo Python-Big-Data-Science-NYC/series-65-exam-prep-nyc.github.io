@@ -22,33 +22,33 @@ Welcome to the **open-access Series 65 Exam Preparation Course**. This resource 
 
 ## 📋 Course Modules
 
-### Module 1: Series 65 Exam Fundamentals
+### Module 1: Series 65 Exam Fundamentals (/series-65-exam-prep-nyc.github.io/module1)
 - **Exam Structure Overview**: Format, question types, timing
 - **Registration Process**: Steps to schedule your exam
 - **Testing Accommodations**: Information for accessibility needs
 - **Scoring System**: How the exam is graded and passing requirements
 
-### Module 2: Economics and Analysis (Section I)
+### Module 2: Economics and Analysis (Section I) (/series-65-exam-prep-nyc.github.io/module2)
 - **Basic Economic Concepts**: Supply, demand, market structures
 - **Financial Reporting**: Understanding financial statements
 - **Quantitative Methods**: Time value of money, statistical concepts
 - **Investment Risk Concepts**: Types of risk and measurement
 
-### Module 3: Investment Vehicles (Section II)
+### Module 3: Investment Vehicles (Section II) (/series-65-exam-prep-nyc.github.io/module3)
 - **Equity Securities**: Stocks, ETFs, REITs
 - **Fixed Income Securities**: Bonds, notes, debt instruments
 - **Pooled Investments**: Mutual funds, hedge funds
 - **Alternative Investments**: Options, futures, derivatives
 - **Insurance Products**: Annuities, variable products
 
-### Module 4: Client Investment Recommendations (Section III)
+### Module 4: Client Investment Recommendations (Section III) (/series-65-exam-prep-nyc.github.io/module4)
 - **Suitability Standards**: Assessing client needs and constraints
 - **Portfolio Management**: Asset allocation strategies
 - **Tax Considerations**: Tax implications of investments
 - **Retirement Planning**: IRA, 401(k), and other retirement accounts
 - **Estate Planning Basics**: Trusts, wills, and transfer considerations
 
-### Module 5: Laws, Regulations, and Guidelines (Section IV)
+### Module 5: Laws, Regulations, and Guidelines (Section IV) (/series-65-exam-prep-nyc.github.io/module5)
 - **State Regulations**: Uniform Securities Act provisions
 - **Federal Securities Laws**: Securities Act of 1933, Securities Exchange Act of 1934
 - **Investment Advisers Act of 1940**: Registration, requirements, prohibitions
