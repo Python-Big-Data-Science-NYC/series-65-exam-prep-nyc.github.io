@@ -1440,3 +1440,8 @@ D. Government funds
 **Total Questions: 250**
 **Coverage:** Equity Securities, Fixed Income, Pooled Investments, Alternative Investments, Insurance Products
 **Exam Weight:** Approximately 25-30% of Series 65 Exam
+### Module 1: Series 65 Exam Fundamentals [module1](/series-65-exam-prep-nyc.github.io/module1)
+### Module 2: Economics and Analysis (Section I) [module2](/series-65-exam-prep-nyc.github.io/module2)
+### Module 3: Investment Vehicles (Section II) (/series-65-exam-prep-nyc.github.io/module3)
+### Module 4: Client Investment Recommendations (Section III) [module4](/series-65-exam-prep-nyc.github.io/module4)
+### Module 5: Laws, Regulations, and Guidelines (Section IV) [module5](/series-65-exam-prep-nyc.github.io/module5)

@@ -22,13 +22,13 @@ Welcome to the **open-access Series 65 Exam Preparation Course**. This resource 
 
 ## 📋 Course Modules
 
-### Module 1: Series 65 Exam Fundamentals (/series-65-exam-prep-nyc.github.io/module1)
+### Module 1: Series 65 Exam Fundamentals [module1](/series-65-exam-prep-nyc.github.io/module1)
 - **Exam Structure Overview**: Format, question types, timing
 - **Registration Process**: Steps to schedule your exam
 - **Testing Accommodations**: Information for accessibility needs
 - **Scoring System**: How the exam is graded and passing requirements
 
-### Module 2: Economics and Analysis (Section I) (/series-65-exam-prep-nyc.github.io/module2)
+### Module 2: Economics and Analysis (Section I) [module2](/series-65-exam-prep-nyc.github.io/module2)
 - **Basic Economic Concepts**: Supply, demand, market structures
 - **Financial Reporting**: Understanding financial statements
 - **Quantitative Methods**: Time value of money, statistical concepts
@@ -41,14 +41,14 @@ Welcome to the **open-access Series 65 Exam Preparation Course**. This resource 
 - **Alternative Investments**: Options, futures, derivatives
 - **Insurance Products**: Annuities, variable products
 
-### Module 4: Client Investment Recommendations (Section III) (/series-65-exam-prep-nyc.github.io/module4)
+### Module 4: Client Investment Recommendations (Section III) [module4](/series-65-exam-prep-nyc.github.io/module4)
 - **Suitability Standards**: Assessing client needs and constraints
 - **Portfolio Management**: Asset allocation strategies
 - **Tax Considerations**: Tax implications of investments
 - **Retirement Planning**: IRA, 401(k), and other retirement accounts
 - **Estate Planning Basics**: Trusts, wills, and transfer considerations
 
-### Module 5: Laws, Regulations, and Guidelines (Section IV) (/series-65-exam-prep-nyc.github.io/module5)
+### Module 5: Laws, Regulations, and Guidelines (Section IV) [module5](/series-65-exam-prep-nyc.github.io/module5)
 - **State Regulations**: Uniform Securities Act provisions
 - **Federal Securities Laws**: Securities Act of 1933, Securities Exchange Act of 1934
 - **Investment Advisers Act of 1940**: Registration, requirements, prohibitions
@@ -287,3 +287,13 @@ This course remains **free and openly accessible** to all learners. The material
 **Accessibility Statement**: This course is designed to meet Web Content Accessibility Guidelines (WCAG) 2.1 Level AA. If you encounter accessibility barriers, please contact us for alternative formats.
 
 **Disclaimer**: This course provides educational information only and does not constitute legal or professional advice. FINRA and NASAA administer the actual Series 65 exam, and candidates should refer to official sources for current exam requirements.
+
+
+
+# 📋 Course Modules
+
+### Module 1: Series 65 Exam Fundamentals [module1](/series-65-exam-prep-nyc.github.io/module1)
+### Module 2: Economics and Analysis (Section I) [module2](/series-65-exam-prep-nyc.github.io/module2)
+### Module 3: Investment Vehicles (Section II) (/series-65-exam-prep-nyc.github.io/module3)
+### Module 4: Client Investment Recommendations (Section III) [module4](/series-65-exam-prep-nyc.github.io/module4)
+### Module 5: Laws, Regulations, and Guidelines (Section IV) [module5](/series-65-exam-prep-nyc.github.io/module5)
