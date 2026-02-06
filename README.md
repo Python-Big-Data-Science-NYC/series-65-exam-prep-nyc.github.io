@@ -6,7 +6,7 @@
 
 ## 🚀 Quick Start
 
-1. **Visit the live site**: https://series-65-exam-prep-nyc.github.io
+1. **Visit the live site**: https://python-big-data-science-nyc.github.io/series-65-exam-prep-nyc.github.io/
 2. **Study the modules**: Complete all 5 modules
 3. **Practice**: Use the accessible question banks
 4. **Prepare for NYC testing centers**: Find local resources
