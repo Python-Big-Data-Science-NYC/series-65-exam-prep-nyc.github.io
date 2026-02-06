@@ -187,13 +187,23 @@ During the 2008 financial crisis, firms with inadequate capital buffers failed, 
 *   *Anti-money laundering rules*
 
 ### part 1: Series 65 Exam Fundamentals 
+
+Pages:
+
 [part1-5-market-structure](/series-65-exam-prep-nyc.github.io/module5/part1-5-market-structure)
+
 [part1-securities-law](/series-65-exam-prep-nyc.github.io/module5/part1-securities-law)
+
 [part2-registration](/series-65-exam-prep-nyc.github.io/module5/part2-registration)
+
 [part3-5-insider-trading-advanced](/series-65-exam-prep-nyc.github.io/module5/part3-5-insider-trading-advanced)
+
 [part1-5-market-structure](/series-65-exam-prep-nyc.github.io/module5/part1-5-market-structure)
+
 [part3-fraud](/series-65-exam-prep-nyc.github.io/module5/part3-fraud)
+
 [part4-fiduciary](/series-65-exam-prep-nyc.github.io/module5/part4-fiduciary)
+
 [part5-exam-questions](/series-65-exam-prep-nyc.github.io/module5/part5-exam-questions)
 
 
