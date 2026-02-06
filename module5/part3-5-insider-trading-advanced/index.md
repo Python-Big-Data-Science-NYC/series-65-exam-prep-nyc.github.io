@@ -643,6 +643,25 @@ Best execution enforcement affects:
 *   *Whistleblower protections*
 
 ---
+Pages:
+
+[part1-5-market-structure](/series-65-exam-prep-nyc.github.io/module5/part1-5-market-structure)
+
+[part1-securities-law](/series-65-exam-prep-nyc.github.io/module5/part1-securities-law)
+
+[part2-registration](/series-65-exam-prep-nyc.github.io/module5/part2-registration)
+
+[part3-5-insider-trading-advanced](/series-65-exam-prep-nyc.github.io/module5/part3-5-insider-trading-advanced)
+
+[part1-5-market-structure](/series-65-exam-prep-nyc.github.io/module5/part1-5-market-structure)
+
+[part3-fraud](/series-65-exam-prep-nyc.github.io/module5/part3-fraud)
+
+[part4-fiduciary](/series-65-exam-prep-nyc.github.io/module5/part4-fiduciary)
+
+[part5-exam-questions](/series-65-exam-prep-nyc.github.io/module5/part5-exam-questions)
+
+
 
 **Previous**: [← Part 1: Introduction to Securities Law](/series-65-exam-prep-nyc.github.io//module5/part1-securities-law/)
 **Next**: [Part 2: Registration & Disclosure →](/series-65-exam-prep-nyc.github.io//module5/part2-registration/)
