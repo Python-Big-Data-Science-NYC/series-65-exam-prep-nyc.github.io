@@ -34,7 +34,7 @@ Welcome to the **open-access Series 65 Exam Preparation Course**. This resource 
 - **Quantitative Methods**: Time value of money, statistical concepts
 - **Investment Risk Concepts**: Types of risk and measurement
 
-### Module 3: Investment Vehicles (Section II) (/series-65-exam-prep-nyc.github.io/module3)
+### Module 3: Investment Vehicles (Section II) [module3](/series-65-exam-prep-nyc.github.io/module3)
 - **Equity Securities**: Stocks, ETFs, REITs
 - **Fixed Income Securities**: Bonds, notes, debt instruments
 - **Pooled Investments**: Mutual funds, hedge funds
