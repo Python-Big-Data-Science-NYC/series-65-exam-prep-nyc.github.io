@@ -1,4 +1,4 @@
-# Series 65 Exam: Module 1 - Exam Fundamentals
+
 ## Exam Structure, Registration, Accommodations, and Scoring
 
 ---
@@ -1201,6 +1201,12 @@ D. With special permission
 - Review regulations and ethics thoroughly
 
 ---
+
+### Module 1: Series 65 Exam Fundamentals [module1](/series-65-exam-prep-nyc.github.io/module1)
+### Module 2: Economics and Analysis (Section I) [module2](/series-65-exam-prep-nyc.github.io/module2)
+### Module 3: Investment Vehicles (Section II) [module3](/series-65-exam-prep-nyc.github.io/module3)
+### Module 4: Client Investment Recommendations (Section III) [module4](/series-65-exam-prep-nyc.github.io/module4)
+### Module 5: Laws, Regulations, and Guidelines (Section IV) [module5](/series-65-exam-prep-nyc.github.io/module5)# Series 65 Exam: Module 1 - Exam Fundamentals
 
 **Total Questions: 160**
 **Coverage:** Exam Structure, Registration Process, Testing Accommodations, Scoring System
