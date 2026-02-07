@@ -24,6 +24,8 @@ Welcome to the **open-access Series 65 Exam Preparation Course**. This resource 
 
 ## 📋 Course Modules
 
+### [adv](adv)
+
 ### Module 1: Series 65 Exam Fundamentals [module1](/series-65-exam-prep-nyc.github.io/module1)
 - **Exam Structure Overview**: Format, question types, timing
 - **Registration Process**: Steps to schedule your exam
