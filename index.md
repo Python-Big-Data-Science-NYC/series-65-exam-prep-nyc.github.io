@@ -20,6 +20,8 @@ Welcome to the **open-access Series 65 Exam Preparation Course**. This resource 
 
 ---
 
+### If yiu passed cfa l1 use this [cfa1 passed material](/series-65-exam-prep-nyc.github.io/cfa1)
+
 ## 📋 Course Modules
 
 ### Module 1: Series 65 Exam Fundamentals [module1](/series-65-exam-prep-nyc.github.io/module1)
