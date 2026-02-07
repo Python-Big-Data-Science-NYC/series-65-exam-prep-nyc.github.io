@@ -1468,6 +1468,7 @@ D. Unlimited gifts
 **Total Questions: 200**
 **Coverage:** Suitability Standards, Portfolio Management, Tax Considerations, Retirement Planning, Estate Planning Basics
 **Exam Weight:** Approximately 30-35% of Series 65 Exam
+###[cfa1 passed material](/series-65-exam-prep-nyc.github.io/cfa1)
 ### Module 1: Series 65 Exam Fundamentals [module1](/series-65-exam-prep-nyc.github.io/module1)
 ### Module 2: Economics and Analysis (Section I) [module2](/series-65-exam-prep-nyc.github.io/module2)
 ### Module 3: Investment Vehicles (Section II) [module3](/series-65-exam-prep-nyc.github.io/module3)

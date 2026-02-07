@@ -1440,6 +1440,7 @@ D. Government funds
 **Total Questions: 250**
 **Coverage:** Equity Securities, Fixed Income, Pooled Investments, Alternative Investments, Insurance Products
 **Exam Weight:** Approximately 25-30% of Series 65 Exam
+###[cfa1 passed material](/series-65-exam-prep-nyc.github.io/cfa1)
 ### Module 1: Series 65 Exam Fundamentals [module1](/series-65-exam-prep-nyc.github.io/module1)
 ### Module 2: Economics and Analysis (Section I) [module2](/series-65-exam-prep-nyc.github.io/module2)
 ### Module 3: Investment Vehicles (Section II) [module3](/series-65-exam-prep-nyc.github.io/module3)

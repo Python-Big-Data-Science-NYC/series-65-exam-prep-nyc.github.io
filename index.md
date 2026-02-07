@@ -20,7 +20,7 @@ Welcome to the **open-access Series 65 Exam Preparation Course**. This resource 
 
 ---
 
-### If yiu passed cfa l1 use this [cfa1 passed material](/series-65-exam-prep-nyc.github.io/cfa1)
+### If yuu passed cfa l1 use this [cfa1 passed material](/series-65-exam-prep-nyc.github.io/cfa1)
 
 ## 📋 Course Modules
 
@@ -293,7 +293,7 @@ This course remains **free and openly accessible** to all learners. The material
 
 
 # 📋 Course Modules
-
+###[cfa1 passed material](/series-65-exam-prep-nyc.github.io/cfa1)
 ### Module 1: Series 65 Exam Fundamentals [module1](/series-65-exam-prep-nyc.github.io/module1)
 ### Module 2: Economics and Analysis (Section I) [module2](/series-65-exam-prep-nyc.github.io/module2)
 ### Module 3: Investment Vehicles (Section II) [module3] (/series-65-exam-prep-nyc.github.io/module3)

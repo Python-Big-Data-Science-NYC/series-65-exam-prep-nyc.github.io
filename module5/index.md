@@ -1305,6 +1305,7 @@ D. No specific meaning
 **Total Questions: 230**
 **Coverage:** Uniform Securities Act, Federal Securities Laws, Investment Advisers Act, ERISA Basics, Ethical Practices
 **Exam Weight:** Approximately 35-40% of Series 65 Exam
+###[cfa1 passed material](/series-65-exam-prep-nyc.github.io/cfa1)
 ### Module 1: Series 65 Exam Fundamentals [module1](/series-65-exam-prep-nyc.github.io/module1)
 ### Module 2: Economics and Analysis (Section I) [module2](/series-65-exam-prep-nyc.github.io/module2)
 ### Module 3: Investment Vehicles (Section II) [module3](/series-65-exam-prep-nyc.github.io/module3)
