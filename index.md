@@ -19,166 +19,126 @@ Welcome to the **open-access Series 65 Exam Preparation Course**. This resource 
 - **ARIA labels** where appropriate
 
 ---
+# Series 65 Study Materials - Organized
 
-### If yuu passed cfa l1 use this [cfa1 passed material](/series-65-exam-prep-nyc.github.io/cfa1)
+## 📋 Core Study Modules
 
-## 📋 Course Modules
+### [module1](/series-65-exam-prep-nyc.github.io/module1)
+**Module 1: Series 65 Exam Fundamentals**
+- Exam Structure Overview: Format, question types, timing
+- Registration Process: Steps to schedule your exam
+- Testing Accommodations: Information for accessibility needs
+- Scoring System: How the exam is graded and passing requirements
 
-### [adv](adv)
+### [module2](/series-65-exam-prep-nyc.github.io/module2)
+**Module 2: Economics and Analysis (Section I)**
+- Basic Economic Concepts: Supply, demand, market structures
+- Financial Reporting: Understanding financial statements
+- Quantitative Methods: Time value of money, statistical concepts
+- Investment Risk Concepts: Types of risk and measurement
 
-### Module 1: Series 65 Exam Fundamentals [module1](/series-65-exam-prep-nyc.github.io/module1)
-- **Exam Structure Overview**: Format, question types, timing
-- **Registration Process**: Steps to schedule your exam
-- **Testing Accommodations**: Information for accessibility needs
-- **Scoring System**: How the exam is graded and passing requirements
+### [module3](/series-65-exam-prep-nyc.github.io/module3)
+**Module 3: Investment Vehicles (Section II)**
+- Equity Securities: Stocks, ETFs, REITs
+- Fixed Income Securities: Bonds, notes, debt instruments
+- Pooled Investments: Mutual funds, hedge funds
+- Alternative Investments: Options, futures, derivatives
+- Insurance Products: Annuities, variable products
 
-### Module 2: Economics and Analysis (Section I) [module2](/series-65-exam-prep-nyc.github.io/module2)
-- **Basic Economic Concepts**: Supply, demand, market structures
-- **Financial Reporting**: Understanding financial statements
-- **Quantitative Methods**: Time value of money, statistical concepts
-- **Investment Risk Concepts**: Types of risk and measurement
+### [module4](/series-65-exam-prep-nyc.github.io/module4)
+**Module 4: Client Investment Recommendations (Section III)**
+- Suitability Standards: Assessing client needs and constraints
+- Portfolio Management: Asset allocation strategies
+- Tax Considerations: Tax implications of investments
+- Retirement Planning: IRA, 401(k), and other retirement accounts
+- Estate Planning Basics: Trusts, wills, and transfer considerations
 
-### Module 3: Investment Vehicles (Section II) [module3](/series-65-exam-prep-nyc.github.io/module3)
-- **Equity Securities**: Stocks, ETFs, REITs
-- **Fixed Income Securities**: Bonds, notes, debt instruments
-- **Pooled Investments**: Mutual funds, hedge funds
-- **Alternative Investments**: Options, futures, derivatives
-- **Insurance Products**: Annuities, variable products
-
-### Module 4: Client Investment Recommendations (Section III) [module4](/series-65-exam-prep-nyc.github.io/module4)
-- **Suitability Standards**: Assessing client needs and constraints
-- **Portfolio Management**: Asset allocation strategies
-- **Tax Considerations**: Tax implications of investments
-- **Retirement Planning**: IRA, 401(k), and other retirement accounts
-- **Estate Planning Basics**: Trusts, wills, and transfer considerations
-
-### Module 5: Laws, Regulations, and Guidelines (Section IV) [module5](/series-65-exam-prep-nyc.github.io/module5)
-- **State Regulations**: Uniform Securities Act provisions
-- **Federal Securities Laws**: Securities Act of 1933, Securities Exchange Act of 1934
-- **Investment Advisers Act of 1940**: Registration, requirements, prohibitions
-- **ERISA Basics**: Employee Retirement Income Security Act
-- **Ethical Practices**: Fiduciary duty, confidentiality, conflicts
+### [module5](/series-65-exam-prep-nyc.github.io/module5)
+**Module 5: Laws, Regulations, and Guidelines (Section IV)**
+- State Regulations: Uniform Securities Act provisions
+- Federal Securities Laws: Securities Act of 1933, Securities Exchange Act of 1934
+- Investment Advisers Act of 1940: Registration, requirements, prohibitions
+- ERISA Basics: Employee Retirement Income Security Act
+- Ethical Practices: Fiduciary duty, confidentiality, conflicts
 
 ---
-# 📜 Module 5: Securities Law & Regulations
 
-## **Overview**
-This module covers all securities law concepts required for the Series 65 exam. Content is formatted for **screen readers and text-to-speech tools**.
+## 🏛️ Module 5: Securities Law Deep Dive
 
-## **Accessibility Features**
-- ✅ **Semantic HTML structure** for clear navigation
-- ✅ **Descriptive headings** for easy content jumping  
-- ✅ **Plain language explanations** without jargon
-- ✅ **High contrast text** for readability
-- ✅ **Audio-safe formatting** for voice studying
-
-## **📚 Module Parts**
-
-### [Part 1: Introduction to Securities Law](/series-65-exam-prep-nyc.github.io/module5/part1-securities-law/)
+### Foundational Concepts
+#### [Part 1: Introduction to Securities Law](/series-65-exam-prep-nyc.github.io/module5/part1-securities-law/)
 - Why securities law exists
 - Core principles and purposes
 - Federal vs. state regulation
 - Historical context
 
-### [Part 1.5: Market Structure & Intermediaries](/series-65-exam-prep-nyc.github.io//module5/part1-5-market-structure)
+#### [Part 1.5: Market Structure & Intermediaries](/series-65-exam-prep-nyc.github.io/module5/part1-5-market-structure)
 - FINRA, MSRB, and SRO regulation
 - Broker-dealer registration and compliance
 - Net capital and customer protection rules
 - Market operations and trading rules
 
-### [Part 2: Registration & Disclosure](/series-65-exam-prep-nyc.github.io/module5/part2-registration/)
+### Registration & Compliance
+#### [Part 2: Registration & Disclosure](/series-65-exam-prep-nyc.github.io/module5/part2-registration/)
 - Securities Act of 1933
 - Registration requirements
 - Exempt securities and transactions
 - Disclosure obligations
 
-### [Part 3: Fraud & Anti-Fraud Rules](/series-65-exam-prep-nyc.github.io/module5/part3-fraud/)
+### Fraud & Enforcement
+#### [Part 3: Fraud & Anti-Fraud Rules](/series-65-exam-prep-nyc.github.io/module5/part3-fraud/)
 - Fraud definitions and examples
 - Anti-fraud provisions
 - Material misstatements and omissions
 - Enforcement mechanisms
 
-### [Part 3: Fraud & Anti-Fraud Rules](/series-65-exam-prep-nyc.github.io/module5/part3-5-insider-trading-advanced/)
+#### [Part 3.5: Insider Trading Advanced](/series-65-exam-prep-nyc.github.io/module5/part3-5-insider-trading-advanced/)
 - Fraud definitions, elements, and real-world examples
 - Anti-fraud provisions (Rule 10b-5, Section 17(a), insider trading rules)
 - Material misstatements, omissions, and half-truths
 - Enforcement mechanisms (SEC, criminal, private actions, whistleblower)
 - Scienter requirements, fraud-on-the-market theory, due diligence defenses
 
-### [Part 4: Fiduciary Duty & Ethics](/series-65-exam-prep-nyc.github.io/module5/part4-fiduciary/)
+### Professional Standards
+#### [Part 4: Fiduciary Duty & Ethics](/series-65-exam-prep-nyc.github.io/module5/part4-fiduciary/)
 - Fiduciary duty requirements
 - Investment Advisers Act of 1940
 - Suitability vs. best interest
 - Conflict of interest management
 
-### [Part 5: Exam Questions & Practice](/series-65-exam-prep-nyc.github.io/module5/part5-exam-questions/)
+### Practice & Assessment
+#### [Part 5: Exam Questions & Practice](/series-65-exam-prep-nyc.github.io/module5/part5-exam-questions/)
 - Tough exam-style questions
 - Answer explanations with logic
 - Memory aids and rules
 - Decision trees for complex scenarios
 
-## **🎯 Key Learning Objectives**
-
-By completing this module, you will:
-- Understand the **purpose and structure** of securities laws
-- Identify **registration requirements** for securities and advisers
-- Recognize **fraudulent activities** and violations
-- Apply **fiduciary duty standards** to real scenarios
-- Navigate **complex exam questions** with confidence
-
-## **🗽 NYC-Specific Considerations**
-- **New York State securities laws** (Martin Act)
-- **NYC Department of Consumer Affairs** regulations
-- **Local compliance requirements** for NYC-based advisers
-- **Accessible NYC testing accommodations** for securities exams
-
-## **🕐 Study Time Recommendation**
-- **Total module time**: 4-6 hours
-- **Reading time**: 2-3 hours
-- **Practice questions**: 1-2 hours
-- **Review and memory**: 1 hour
-
-## **📖 How to Study This Module**
-
-### For Screen Reader Users:
-1. Start with Part 1 and proceed sequentially
-2. Use heading navigation (H1, H2, H3) to jump between sections
-3. Listen to key concept summaries multiple times
-4. Use the memory rules for quick review
-
-### For Visual Learners:
-1. Print the content in large format if needed
-2. Create flashcards from key definitions
-3. Highlight important regulatory distinctions
-4. Draw timelines of regulatory development
-
-## **🔗 Navigation**
-- **Previous Module**: [Module 4: Client Recommendations](/series-65-exam-prep-nyc.github.io/module4/)
-- **Next Practice**: [Module 5 Practice Questions](/series-65-exam-prep-nyc.github.io/practice/module5/)
-- **Return to**: [Course Home](/)
+#### [Module 5 Practice Questions](/series-65-exam-prep-nyc.github.io/practice/module5/)
 
 ---
 
-**Module Difficulty Level**: Advanced ⭐⭐⭐⭐  
-**Exam Weight**: Approximately 25-30% of total questions  
-**Last Updated**: January 2026  
-**Accessibility Status**: WCAG 2.1 AA Compliant ✅
+## 📚 Advanced Materials
 
-## 🎯 Study Strategies for Success
+### CFA Level 1
+- [CFA1](cfa1)
+- [CFA1 Part 2](cfa1-part2)
+- [CFA1 Part 3](cfa1-part3)
 
-### Accessibility-Focused Study Techniques
-- **Text-to-Speech Integration**: How to use screen readers effectively with study materials
-- **Structured Review Sessions**: Creating accessible review schedules
-- **Practice Exam Navigation**: Tips for taking computer-based exams with assistive technology
-- **Memory Aid Creation**: Accessible mnemonics and study aids
+### Regulations
+- [Regulations Simple](regulations-simple)
+- [Regulations Hard](regulations-hard)
+- [State Regulations](state-regulations)
+- [Federal Securities Acts](fed-security-acts)
 
-### Practice Resources
-- **Accessible Question Banks**: Screen-reader compatible practice questions
-- **Audio Flashcards**: MP3 format flashcard decks
-- **Braille-Compatible Materials**: Available upon request
-- **Large Print Study Guides**: PDF formats with adjustable text size
+### Client & Products
+- [Client Care](client-care)
+- [Mutual Fund](mutual-fund)
 
 ---
+
+## 🔗 Quick Navigation
+- [Module 4: Client Recommendations](/series-65-exam-prep-nyc.github.io/module4/)
+- [Course Home](/)
 
 ## 🔍 Key Legal and Regulatory Concepts
 
@@ -206,20 +166,6 @@ When making recommendations, representatives must consider:
 - **Practice with Similar Interfaces**: Familiarize yourself with testing center technology
 - **Accessibility Equipment Check**: Test any personal assistive devices
 
-### During the Exam
-- **Time Management Strategies**: 130 questions in 180 minutes
-- **Question Navigation Tips**: Flagging, reviewing, and changing answers
-- **Accessibility Features**: How to use built-in test accommodations
-- **Breaks and Timing**: Scheduled and unscheduled break policies
-
-### After the Exam
-- **Score Reporting**: Understanding your results
-- **Retake Policies**: If additional attempts are needed
-- **Next Steps**: Registration and licensing procedures
-- **Continuing Education**: Ongoing requirements after passing
-
----
-
 ## 📱 Accessible Learning Tools
 
 ### Screen Reader Optimized Resources
@@ -238,17 +184,6 @@ When making recommendations, representatives must consider:
 
 ## 🔗 Additional Resources
 
-### Official Resources
-- [FINRA Series 65 Information Page](https://www.finra.org/registration-exams-ce/qualification-exams/series-65) - Official exam details
-- [NASAA Website](https://www.nasaa.org) - North American Securities Administrators Association
-- [Testing Accommodations Information](https://www.prometric.com/test-takers/accessibility) - Accessibility services
-
-### Community Support
-- **Accessibility Study Groups**: Peer support for learners using assistive technology
-- **Professional Organizations**: Groups for financial professionals with disabilities
-- **Mentorship Programs**: Connecting with experienced professionals
-
----
 
 ## 📊 Practice Question Examples
 
